@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="90">
+  <!-- Main background -->
+  <rect width="320" height="90" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Left panel: Current Streak -->
+  <rect x="8" y="8" width="140" height="74" rx="8" fill="#1c1917"/>
+  <text x="78" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9ca3af" text-anchor="middle" letter-spacing="0.5">현재 스트릭</text>
+  <text x="78" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#ef4444" font-weight="bold" text-anchor="middle">0일 🔥</text>
+
+  <!-- Right panel: Best Streak -->
+  <rect x="156" y="8" width="156" height="74" rx="8" fill="#0f1f2e"/>
+  <text x="234" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9ca3af" text-anchor="middle" letter-spacing="0.5">최장 스트릭</text>
+  <text x="234" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#22c55e" font-weight="bold" text-anchor="middle">2일 🏆</text>
+</svg>
